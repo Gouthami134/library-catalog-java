@@ -1,4 +1,4 @@
-# Library Catalog (Java)
+# Library Catalog 
 
 An original command-line learning project for adding books to an in-memory catalog, listing entries, and searching titles or authors. Entries are cleared when the program exits.
 
